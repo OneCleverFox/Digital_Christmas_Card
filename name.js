@@ -1,4 +1,4 @@
-const name = getNameFromUrl() || "frohe Weinachten";
+const name = getNameFromUrl() || "frohe Weihnachten";
 
 const nameEle = document.getElementById("name");
 
